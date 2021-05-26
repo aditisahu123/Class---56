@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    color: darkgoldenrod
+}
+
+h1:hover {
+    background-color: aquamarine
+}
